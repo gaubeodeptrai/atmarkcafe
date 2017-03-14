@@ -1,0 +1,309 @@
+[
+    {
+        "name": "001",
+        "content": [
+            {
+                "file": "BM-ZU01.png",
+                "path": "clipart\\001\\BM-ZU01.png"
+            },
+            {
+                "file": "background.jpg",
+                "path": "clipart\\001\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\001\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "002",
+        "content": [
+            {
+                "name": "001",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\001\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\001\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "002",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\002\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\002\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "003",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\003\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\003\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "004",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\004\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\004\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "005",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\005\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\005\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "006",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\006\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\006\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "007",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\007\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\007\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "008",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\008\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\008\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "009",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\009\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\009\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "010",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\010\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\010\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "011",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\011\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\011\\info.json"
+                    }
+                ]
+            },
+            {
+                "name": "012",
+                "content": [
+                    {
+                        "file": "background.jpg",
+                        "path": "clipart\\002\\012\\background.jpg"
+                    },
+                    {
+                        "file": "info.json",
+                        "path": "clipart\\002\\012\\info.json"
+                    }
+                ]
+            },
+            {
+                "file": "background.jpg",
+                "path": "clipart\\002\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\002\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "003",
+        "content": [
+            {
+                "file": "background.jpg",
+                "path": "clipart\\003\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\003\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "004",
+        "content": [
+            {
+                "file": "background.jpg",
+                "path": "clipart\\004\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\004\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "005",
+        "content": [
+            {
+                "file": "background.jpg",
+                "path": "clipart\\005\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\005\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "006",
+        "content": [
+            {
+                "file": "background.jpg",
+                "path": "clipart\\006\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\006\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "007",
+        "content": [
+            {
+                "file": "background.jpg",
+                "path": "clipart\\007\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\007\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "008",
+        "content": [
+            {
+                "file": "background.jpg",
+                "path": "clipart\\008\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\008\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "009",
+        "content": [
+            {
+                "file": "background.jpg",
+                "path": "clipart\\009\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\009\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "010",
+        "content": [
+            {
+                "file": "background.jpg",
+                "path": "clipart\\010\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\010\\info.json"
+            }
+        ]
+    },
+    {
+        "name": "011",
+        "content": [
+            {
+                "file": "background.jpg",
+                "path": "clipart\\011\\background.jpg"
+            },
+            {
+                "file": "info.json",
+                "path": "clipart\\011\\info.json"
+            }
+        ]
+    },
+    {
+        "file": "info.json",
+        "path": "clipart\\info.json"
+    }
+]

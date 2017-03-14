@@ -1,0 +1,25 @@
+{
+  "name": "剣・クロス",
+  "content": [
+    {
+      "name": "BM-MK14",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/08剣・クロス/BM-MK14.svg"
+    },
+    {
+      "name": "BM-MK15",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/08剣・クロス/BM-MK15.svg"
+    },
+    {
+      "name": "BM-MK26",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/08剣・クロス/BM-MK26.svg"
+    },
+    {
+      "name": "BM-MK27",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/08剣・クロス/BM-MK27.svg"
+    }
+  ]
+}

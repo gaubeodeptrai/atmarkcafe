@@ -1,0 +1,35 @@
+{
+  "name": "王冠・トロフィー",
+  "content": [
+    {
+      "name": "BM-MK16",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/07王冠・トロフィー/BM-MK16.svg"
+    },
+    {
+      "name": "BM-MK17",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/07王冠・トロフィー/BM-MK17.svg"
+    },
+    {
+      "name": "BM-MK37",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/07王冠・トロフィー/BM-MK37.svg"
+    },
+    {
+      "name": "BM-MK38",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/07王冠・トロフィー/BM-MK38.svg"
+    },
+    {
+      "name": "BM-MK50",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/07王冠・トロフィー/BM-MK50.svg"
+    },
+    {
+      "name": "BM-MK51",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/07王冠・トロフィー/BM-MK51.svg"
+    }
+  ]
+}

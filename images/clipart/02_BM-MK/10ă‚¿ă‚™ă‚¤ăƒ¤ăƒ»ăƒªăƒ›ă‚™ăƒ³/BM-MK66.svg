@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 768" >
+<g>
+	<path class="layout" data-layout="5" d="M580.5,356.8L552.3,328l-1.6-1.6h-2.3h-73h-2.3l-1.6,1.6l-28.2,28.9l-3.5,3.6l3.3,3.8l64.6,72.9l4,4.6l4-4.6l1.9-2.2
+		l62.7-70.8l3.3-3.8L580.5,356.8z M513.9,431.4l-1.9,2.2l-64.6-72.9l28.2-28.9h73l28.2,28.9L513.9,431.4z"/>
+	<polygon class="layout" data-layout="5" points="487.9,362.9 512,423.6 536.1,362.9 	"/>
+	<polygon class="layout" data-layout="5" points="533.7,358.4 511.7,338 490.2,358.4 	"/>
+	<polygon class="layout" data-layout="5" points="544.1,337.4 517.8,337.4 538.3,356.6 	"/>
+	<polygon class="layout" data-layout="5" points="505.7,337.4 479.9,337.4 485.7,356.5 	"/>
+	<polygon class="layout" data-layout="5" points="475.8,339.6 457.5,358.4 481.5,358.4 	"/>
+	<polygon class="layout" data-layout="5" points="457.1,362.9 504.2,416.1 483,362.9 	"/>
+	<polygon class="layout" data-layout="5" points="519.8,416.1 566.9,362.9 541,362.9 	"/>
+	<polygon class="layout" data-layout="5" points="542.5,358.4 566.5,358.4 548.2,339.6 	"/>
+</g>
+</svg>

@@ -1,0 +1,30 @@
+{
+  "name": "ダイヤ・リボン",
+  "content": [
+    {
+      "name": "BM-MK45",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/10ダイヤ・リボン/BM-MK45.svg"
+    },
+    {
+      "name": "BM-MK46",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/10ダイヤ・リボン/BM-MK46.svg"
+    },
+    {
+      "name": "BM-MK57",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/10ダイヤ・リボン/BM-MK57.svg"
+    },
+    {
+      "name": "BM-MK65",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/10ダイヤ・リボン/BM-MK65.svg"
+    },
+    {
+      "name": "BM-MK66",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/10ダイヤ・リボン/BM-MK66.svg"
+    }
+  ]
+}

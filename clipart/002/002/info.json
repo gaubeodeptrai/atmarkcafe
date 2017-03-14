@@ -1,0 +1,25 @@
+{
+  "name": "太陽・炎",
+  "content": [
+    {
+      "name": "BM-MK01",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/02太陽・炎/BM-MK01.svg"
+    },
+    {
+      "name": "BM-MK33",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/02太陽・炎/BM-MK33.svg"
+    },
+    {
+      "name": "BM-MK52",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/02太陽・炎/BM-MK52.svg"
+    },
+    {
+      "name": "BM-MK53",
+      "thumbnail": "",
+      "path": "images/clipart/02_BM-MK/02太陽・炎/BM-MK53.svg"
+    }
+  ]
+}
